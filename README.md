@@ -10,7 +10,6 @@ Rental Circle transforms traditional rental businesses by digitizing inventory m
 - **Apparel Rental Platforms** (clothing, accessories)
 - **General Rental Shops** expanding their offerings
 
-The model addresses the growing sharing economy market by providing small-to-medium rental businesses with enterprise-grade management tools at minimal cost.
 
 ## ✨ Core Features
 
