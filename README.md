@@ -73,7 +73,7 @@ The system exemplifies SOLID object-oriented principles:
 ### Installation & Usage
 
 1. Clone the repository
-git clone https://github.com/01Kenpachi/rental-circle.git
+git clone https://github.com/01Kenpachi/rental_circle.git
 
 2. Navigate to project directory
 cd rental-circle
