@@ -47,8 +47,4 @@ The system exemplifies SOLID object-oriented principles:
 
 ## 📁 Project Structure
 
-fileHandle/
-│   FileService.java                # CRUD operations for text files
-│
-system/
-    RentalSystem.java               # Core rental operations
+images/UML DIAGRAM.jpg
