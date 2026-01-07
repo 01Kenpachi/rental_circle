@@ -71,7 +71,7 @@ The system exemplifies SOLID object-oriented principles:
 - Basic terminal/command prompt knowledge
 
 ### Installation & Usage
-
+```bash
 1. Clone the repository
 git clone https://github.com/01Kenpachi/rental_circle.git
 
@@ -86,10 +86,10 @@ java rentalCircle/MainApp
 
 5. Login with demo credentials
    
-     - **USERNAME:** admin
+     - USERNAME: admin
 
-     - **PASSWORD:** admin123
-
+     - PASSWORD: admin123
+```
 ### Quick Security Upgrade Steps
 For transitioning from demo to production:
 - Remove hardcoded credentials from MainApp.java
